@@ -1,1 +1,8 @@
 .git
+DCO
+CONTRIBUTIONG.md
+.gitignore
+LICENSE
+README.md
+Jenkinsfile
+Makefile
